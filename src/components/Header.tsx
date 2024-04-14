@@ -7,7 +7,8 @@ export default function header() {
         <Link href='/'>Home</Link>
         <div>
           <div>
-            <Link href='/sign-up'>Sign Up</Link>
+            <Link className="pd-2" href='/sign-up'>Sign Up </Link>
+            {" "}
             <Link href='/sign-in'>Sign In</Link>
           </div>
         </div>

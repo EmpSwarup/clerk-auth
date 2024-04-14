@@ -1,6 +1,6 @@
-# Under development
+# Just testing
 
-This application is currently under development.
+This application is used to test authentication using clerk.
 
 ## Getting Started
 
